@@ -15,7 +15,8 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Mohini-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/mohini-ingale-3a1429143/)
 
-Strong in design and integration with intuitive problem-solving skills. Proficient in C, JAVA, HTML, CSS, SQL and JAVASCRIPT. Passionate about implementing and launching new projects. Ability to translate business requirements into technical solutions. Looking to start the career as an entry-level software engineer with a reputed firm driven by technology.
+Adept in HTML, CSS, ReactJS, SQL and JAVASCRIPT. Passionate about learning, implementing and launching new projects. Ability 
+to  design  webpage accroding to requirement.Looking to start the career as an entry-level software engineer with a reputed firm driven by technology.
 💬 Ask me about ...- 🌱 I’m currently learning ...
 📫 You can reach me:  <a href="mohiniingle05@gmail.com"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=flat-square&logo=gmail&logoColor=white"/></a>
 
